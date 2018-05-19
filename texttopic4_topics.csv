@@ -1,0 +1,32 @@
+_displayCat,_topicid,_docCutoff,_termCutoff,_name,_cat,_numterms,_numdocs
+User,1,0.001,0.001,accessories,User,26,359
+User,2,0.001,0.001,camera,User,11,248
+User,3,0.001,0.001,look_feel,User,23,476
+User,4,0.001,0.001,performance,User,68,679
+User,5,0.001,0.001,price,User,17,398
+User,6,0.001,0.001,service,User,32,451
+Multiple,7,0.115,0.029,"+great,+great phone,+phone,+great product,ря",Mult,17,210
+Multiple,8,0.084,0.033,"+problem,+issue,+month,+screen,at all",Mult,75,224
+Multiple,9,0.111,0.030,"+good,+good phone,+phone,ря,+well phone",Mult,20,238
+Multiple,10,0.095,0.028,"excellent,excellent phone,excellent product,+phone,+camera",Mult,12,107
+Multiple,11,0.075,0.032,"+love,+work,+phone,daughter,on time",Mult,75,117
+Multiple,12,0.090,0.030,"great,+work,+look,+work great,working",Mult,26,148
+Multiple,13,0.100,0.030,"+love,+phone,absolutely,perfect,daughter",Mult,23,225
+Multiple,14,0.091,0.030,"+product,+great product,good product,+great,+good",Mult,23,144
+Multiple,15,0.079,0.030,"awesome,awesome phone,ря,price,+camera",Mult,45,79
+Multiple,16,0.083,0.029,"+good,+look,+phone,money,+color",Mult,9,102
+Multiple,17,0.075,0.033,"+charger,+charge,+battery,box,+port",Mult,93,198
+Multiple,18,0.078,0.032,"+happy,+purchase,ря,great,+receive",Mult,72,155
+Multiple,19,0.076,0.029,"+perfect,+work,+product,+want,on time",Mult,18,67
+Multiple,20,0.082,0.030,"+nice,+nice phone,+phone,price,+camera",Mult,28,111
+Multiple,21,0.092,0.031,"+stop,working,+month,+charge,turn on",Mult,49,187
+Multiple,22,0.083,0.034,"blu,vivo,+phone,ря,+buy",Mult,91,227
+Multiple,23,0.073,0.031,"+expect,excelent,daughter,+service,perfectly",Mult,47,111
+Multiple,24,0.082,0.033,"+recommend,+buy,definitely,highly,+battery",Mult,73,262
+Multiple,25,0.095,0.031,"+work,perfectly,fine,iphone,+buy",Mult,57,281
+Multiple,26,0.075,0.035,"iphone,+buy,ря,+problem,+look",Mult,137,95
+Multiple,27,0.080,0.033,"+version,international,+unlock,samsung,+international version",Mult,97,172
+Multiple,28,0.087,0.033,"money,iphone,+return,+buy,+time",Mult,106,263
+Multiple,29,0.079,0.034,"samsung,+service,s7,+customer,+battery",Mult,123,265
+Multiple,30,0.080,0.032,"far,+good,+day,+receive,+satisfy",Mult,58,142
+Multiple,31,0.072,0.033,"+unlock,+device,+look,iphone,+seller",Mult,86,160
